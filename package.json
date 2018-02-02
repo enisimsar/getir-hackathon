@@ -1,0 +1,23 @@
+{
+  "name": "getir_backend_app",
+  "version": "1.0.0",
+  "description": "Getir Hackathon Backend",
+  "author": "Enis Simsar <enisimsar@gmail.com>",
+  "engines": {
+    "node": "9.5.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^5.0.3",
+    "body-parser": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enisimsar/getir-hackathon"
+  },
+  "license": "MIT"
+}
