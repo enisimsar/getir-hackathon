@@ -2,6 +2,6 @@
   "name": "Simple Node.js Backend App",
   "description": "Getir Hackathon - Backend",
   "repository": "https://github.com/enisimsar/getir-hackathon",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "image": "heroku/nodejs"
 }
